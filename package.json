@@ -32,6 +32,6 @@
     "katex": "^0.17.0",
     "markdown-it-mathjax": "^2.0.0",
     "markdown-it-texmath": "^1.0.0",
-    "mathjax": "^4.1.2"
+    "mathjax": "^4.1.3"
   }
 }
