@@ -4,6 +4,7 @@ date: 2026-10-02 13:55:05
 categories: 题解
 tags: 
 - 动态规划 DP
+- 背包 DP
 - 树形 DP
 - 贪心
 ---
