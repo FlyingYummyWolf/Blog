@@ -92,7 +92,7 @@ category_img:  /img/run.png
 category_per_img: /img/run.png
 
 # The background image of footer
-footer_img: /img/head.png
+footer_img: /img/run.png
 
 # Website Background
 # Can set it to color, image URL or an array containing colors and/or image URLs
